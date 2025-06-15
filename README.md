@@ -4,13 +4,8 @@
 Neural collaborative filtering(NCF), is a deep learning based framework for making reccomendations.The key idea is to learn user-item interactions using neural network
 and predict the rating of unrated movies.
 
-## PAPER REFERED
-This project is implementation of [this paper](https://arxiv.org/pdf/1708.05031.pdf) 
-
 ## DATA:
 We will be using a The Movie dataset(https://www.kaggle.com/rounakbanik/the-movies-dataset) from the Kaggle platform which has a very good collection of datasets.
-
-### License : [LICENSE](https://creativecommons.org/publicdomain/zero/1.0/)
 
 ### FEATURES Used in the project
 
